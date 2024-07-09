@@ -212,11 +212,12 @@ a {
   color: #3b3c45;
 }
 .guide-item .link {
-  display: inline-block;
+  display: flex;
   margin-top: 10px;
   font-weight: 600;
   font-size: 1.4rem;
   color: #0689ff;
+  align-items: center;
 }
 .guide-item .arrow {
   margin-left: 6px;
